@@ -22,6 +22,10 @@ Copy to the server,
 
 [root@192 anup]# tar -xzf atlassian-jira-software-8.13.2.tar.gz -C jirasoftware/
 
+[root@192 anup]# chown -R anup jirasoftware/
+
+[root@192 anup]# chmod -R u=rwx,go-rwx jirasoftware/
+
 
 [root@192 anup]# cd <installation-directory>
 
