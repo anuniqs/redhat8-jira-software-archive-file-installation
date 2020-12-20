@@ -11,9 +11,9 @@ Jira is a proprietary issue tracking product developed by Atlassian that allows 
 
 https://www.atlassian.com/software/jira/download
 
-atlassian-jira-software-8.13.2.tar.gz
+```atlassian-jira-software-8.13.2.tar.gz```
 
-```**Copy it to server —**```
+**Copy it to server —**
 
 [root@192 anup]# ls -ltrh
 
