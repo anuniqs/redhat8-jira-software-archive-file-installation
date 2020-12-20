@@ -7,7 +7,7 @@ Jira is a proprietary issue tracking product developed by Atlassian that allows 
 
 **Site Address :** https://confluence.atlassian.com/adminjiraserver/installing-jira-applications-on-linux-from-archive-file-938846844.html
 
-### 1. Download Jira
+### 1. Download Jira —
 
 https://www.atlassian.com/software/jira/download
 
@@ -18,7 +18,7 @@ atlassian-jira-software-8.13.2.tar.gz
 [root@192 anup]# ls -ltrh
 
 
-### 2. Create the installation directory
+### 2. Create the installation directory —
 
 [root@192 anup]# mkdir jirasoftware
 
@@ -31,7 +31,7 @@ atlassian-jira-software-8.13.2.tar.gz
 [root@192 anup]# cd jirasoftware/
 
 
-### 3. Create the home directory
+### 3. Create the home directory —
 
 [root@192 anup]# mkdir jirasoftware-home
 
@@ -56,7 +56,7 @@ atlassian-jira-software-8.13.2.tar.gz
 ```jira.home=/home/anup/jirasoftware-home```
 
 
-### 4. Check the ports
+### 4. Check the ports —
 
 [root@192 atlassian-jira-software-8.13.2-standalone]# pwd
 
@@ -67,7 +67,7 @@ atlassian-jira-software-8.13.2.tar.gz
 Change the Server port (8005) and the Connector port (8080) to free ports on your server.
 
 
-### 5. Start and Stop Jira
+### 5. Start and Stop Jira —
 
 [root@192 atlassian-jira-software-8.13.2-standalone]# pwd
 
