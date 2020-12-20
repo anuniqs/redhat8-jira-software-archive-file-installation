@@ -40,7 +40,7 @@ https://www.atlassian.com/software/jira/download
 [root@192 anup]# chmod -R u=rwx,go-rwx jirasoftware-home/
 
 
-**set an environment variable named JIRA_HOME**
+**Set an environment variable named JIRA_HOME**
 
 [root@192 jirasoftware]# export JIRA_HOME=/home/anup/jirasoftware-home
 
